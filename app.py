@@ -85,7 +85,7 @@ def like_handler():
                     "Authorization": f"Bearer {token}",
                     "X-Unity-Version": "2018.4.11f1",
                     "X-GA": "v1 1",
-                    "ReleaseVersion": "OB53",
+                    "ReleaseVersion": "OB54",
                     "Content-Type": "application/x-www-form-urlencoded",
                     "User-Agent": "Dalvik/2.1.0 (Linux; Android 9)",
                     "Connection": "Keep-Alive",
